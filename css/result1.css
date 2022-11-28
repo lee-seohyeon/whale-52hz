@@ -1,18 +1,27 @@
 body {
 	background-image: url("../img/result-back-img.jpg");
-	background-size: cover;
-	background-size: 100%;
+	/* background-size: cover; */
+	/* background-size: 100%; */
+	/* width: 1920px;
+	height: 1080px; */
 	background-repeat: no-repeat;
+    background-size: 1440px 810px;
 }
 
-.find-con img{
-    width: 170px;
-    position: fixed;
+html{
+    /* background-size: cover; */
+    width: 1440px;
+    height: 810px;
 }
 
-.find-con{
-    display: flex;
-    justify-content: center;
-    margin-top: 720px;
-    margin-left: 20px;
+.find-con img {
+	width: 170px;
+	position: fixed;
+}
+
+.find-con {
+	display: flex;
+	justify-content: center;
+	margin-top: 540px;
+	margin-left: 20px;
 }
