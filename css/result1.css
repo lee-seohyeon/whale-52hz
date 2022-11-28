@@ -1,0 +1,18 @@
+body {
+	background-image: url("../img/result-back-img.jpg");
+	background-size: cover;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.find-con img{
+    width: 170px;
+    position: fixed;
+}
+
+.find-con{
+    display: flex;
+    justify-content: center;
+    margin-top: 720px;
+    margin-left: 20px;
+}

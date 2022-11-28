@@ -1,0 +1,30 @@
+body {
+	background-image: url("../img/index-img.png");
+	background-size: cover;
+    background-repeat:no-repeat;
+}
+
+
+/* .find-bt {
+	width: 100px;
+	height: 40px;
+	background: #ffffff;
+	box-shadow: 0px 0px 30px rgba(255, 255, 255, 0.42);
+	border-radius: 10px;
+	font-size: 0px;
+	line-height: 60px;
+	color: #5bbdd2;
+    border:none;
+} */
+
+.find-con img{
+    width: 200px;
+    position: fixed;
+}
+
+.find-con{
+    display: flex;
+    justify-content: center;
+    margin-top: 550px;
+    margin-left: 20px;
+}
